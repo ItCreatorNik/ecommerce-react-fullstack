@@ -52,7 +52,6 @@ export const ProductList = ({ products }) => {
             color="orangered"
             onClick={() => setGrid(true)}
           />
-
           <FaListAlt size={24} color="#0066d4" onClick={() => setGrid(false)} />
 
           <p>
